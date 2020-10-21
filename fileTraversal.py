@@ -1,5 +1,3 @@
-# file traversal searching for specific name or extension in directory
-
 import os
 
 path = 'C:\\Users\\anmen\\Documents\\My Games'
